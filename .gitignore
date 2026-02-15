@@ -70,3 +70,11 @@ build/
 # Windows
 Thumbs.db
 desktop.ini
+
+# =====================
+# Docker
+# =====================
+
+# Ignore Docker files
+Dockerfile
+docker-compose.yml
