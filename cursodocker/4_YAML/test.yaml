@@ -6,3 +6,6 @@ idade: 20 # Esta é a idade do usuário
 objeto:
   versao: 2
   arquivo: "teste.txt"
+
+versao: 2
+versao_completa: 3.14
