@@ -21,3 +21,10 @@ verdadeiro_dois: On
 
 falso: False
 falso_dois: Off
+
+lista: [1, 2, 3, 4, 5]
+lista_dois:
+  - "teste"
+  - 10
+  - outro teste
+  - True
