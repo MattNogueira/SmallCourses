@@ -1,2 +1,6 @@
 nome: "Matheus"
 idade: 20
+
+objeto:
+  versao: 2
+  arquivo: "teste.txt"
