@@ -15,3 +15,9 @@ texto: "Esse tambem e um texto valido para o YAML"
 
 nulo: ~
 nulo_dois: null
+
+verdadeiro: True
+verdadeiro_dois: On
+
+falso: False
+falso_dois: Off
